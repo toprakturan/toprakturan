@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/88toprakturan" target="blank"><img align="center" src="https://clipartart.com/images/twitter-logo-clipart-png-4.png" alt="88toprakturan" height="20" width="20" /></a>
+<a href="https://twitter.com/88toprakturan" target="blank"><img align="center" src="https://pngimg.com/uploads/twitter/twitter_PNG95259.png" alt="88toprakturan" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/topraktongucturan" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="topraktongucturan" height="30" width="40" /></a>
 </p>
 
