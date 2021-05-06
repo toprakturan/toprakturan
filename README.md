@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Toprak</h1>
-<h3 align="center">A passionate Digital Game Design Student in Turkey at Istanbul Bilgi University</h3>
+<h1 align="center">Hi Everyone 👋, I'm Toprak</h1>
+<h3 align="center">I'm a Digital Game Design Student in Turkey at Istanbul Bilgi University</h3>
+<h3 align="center">Make and create something is my passion. I'm particularly interested in C# and Unity Game Engine.</h3>
+
 
 - 🌱 I’m currently learning **C# and Unity Game Engine**
 
